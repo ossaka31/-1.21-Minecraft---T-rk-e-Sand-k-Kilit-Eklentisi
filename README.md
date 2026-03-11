@@ -1,3 +1,4 @@
+
 Minecraft 1.21+ sürümleri için geliştirilmiş, hafif ve Türkçe sandık kilit sistemi.
 
 Öne Çıkanlar:
